@@ -2,13 +2,11 @@
     "posts": [
       {
         "id": 1,
-        "Nome": "Lucas Furlan",
-        "Cpf": "123.456.789-12"
+        "title": "Lucas Furlan"
       },
       {
         "id": 2,
-        "Nome": "Tiago Poderoso",
-        "Cpf": "123.456.789-12"
+        "title": "Tiago Poderoso"
       }
     ],
     "profile": {
